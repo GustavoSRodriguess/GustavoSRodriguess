@@ -1,6 +1,6 @@
 ### Hi there 👋
  - I'm a student of Software Engeneer and I'm learning to code
- - I'm currently learning JavaScript and Python
+ - I'm currently learning React and Python
  - I have high intrest in cybersecurity and automation  
 <!--
 **GustavoSRodriguess/GustavoSRodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
