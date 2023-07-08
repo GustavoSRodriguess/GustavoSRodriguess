@@ -1,5 +1,5 @@
 ### Hi there 👋
- - I'm a student of Software Engeneer and I'm learning to code
+ - I'm a student of Software Engeneer 
  - I'm currently learning React and Python
  - Currently looking for an intern or a job
 <!--
