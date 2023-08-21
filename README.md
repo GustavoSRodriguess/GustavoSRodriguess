@@ -1,7 +1,7 @@
 ### Hi there 👋
- - I'm a student of Software Engeneer 
+ - I'm a student of Software Engeneering
  - I'm currently learning React and Python
- - Currently looking for an intern or a job
+ - Currently looking for an internship or a job
 <!--
 **GustavoSRodriguess/GustavoSRodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
