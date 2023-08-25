@@ -1,9 +1,10 @@
 ## Hi there I´m [Gustavo](https://github.com/GustavoSRodriguess)
 I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m intrested in development, moderating networks and pentesing. I work in a lot of random projects, so you will find a lot of things that might intrest you in here
+
   
 ### **Academic**
 - Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=vscode,cs,c,js,nodejs,html,css,mysql,unity) -->
 
 ### **Studies**
