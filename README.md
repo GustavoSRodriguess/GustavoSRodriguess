@@ -13,7 +13,7 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
 ### **Deep Diving**
 <details>
   <br />
-  <summary>🖥️<b>Learning in the moment</b></summary>
+  <summary>🖥️<b>Learning at the moment</b></summary>
     <ul>
       <li>Angular</li>
       <li>Tailwind</li>
