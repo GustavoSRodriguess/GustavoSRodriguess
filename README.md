@@ -8,5 +8,5 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
 
 ### **Studies**
 - I have a deep passion about learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and in [Udemy](https://www.udemy.com)
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws)]
 
