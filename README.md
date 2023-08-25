@@ -8,11 +8,11 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
 
   ### **Academic**
   - Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
-  <img src="https://skillicons.dev/icons?i=vscode,c#,c,js,nodejs,html,css,mysql,unity />
+  [![My Skills](https://skillicons.dev/icons?i=vscode,c#,c,js,nodejs,html,css,mysql,unity)(https://skillicons.dev)
 
 ### **Studies**
 - I have a deep passion about learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and in [Udemy](https://www.udemy.com)
-<img src="https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws />
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws)(https://skillicons.dev)
 <!--
 **GustavoSRodriguess/GustavoSRodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
