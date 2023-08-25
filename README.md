@@ -5,14 +5,14 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
    [![Linkedin](https://img.shields.io/badge/Eric%20H.%20Massaneiro-%231DA1F2.svg?style=flat-square&logo=Linkedin&logoColor=white)](https://in.ericmassaneiro.dev/)
    [![GitHub](https://img.shields.io/badge/EikkoMass-12100E.svg?style=flat-square&logo=github&logoColor=white)](https://hub.ericmassaneiro.dev/)
   </div>
-
-  ### **Academic**
-  - Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
-  [![My Skills](https://skillicons.dev/icons?i=vscode,c#,c,js,nodejs,html,css,mysql,unity)(https://skillicons.dev)
+  
+### **Academic**
+- Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
+[![My Skills](https://skillicons.dev/icons?i=vscode,cs,c,js,nodejs,html,css,mysql,unity)
 
 ### **Studies**
 - I have a deep passion about learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and in [Udemy](https://www.udemy.com)
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,docker,git,github,dotnet,aws)
 <!--
 **GustavoSRodriguess/GustavoSRodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
