@@ -3,7 +3,7 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
 
   
 ### **Academic**
-- Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)<br/>
+- Graduating in [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,cs,c,nodejs,mysql,unity,latex)](https://skillicons.dev) 
 
 ### **Studies**
