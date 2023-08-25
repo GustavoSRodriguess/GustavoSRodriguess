@@ -1,10 +1,5 @@
 ## Hi there I´m [Gustavo](https://github.com/GustavoSRodriguess)
 I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m intrested in development, moderating networks and pentesing. I work in a lot of random projects, so you will find a lot of things that might intrest you in here
-  <div>
-
-   [![Linkedin](https://img.shields.io/badge/Eric%20H.%20Massaneiro-%231DA1F2.svg?style=flat-square&logo=Linkedin&logoColor=white)](https://in.ericmassaneiro.dev/)
-   [![GitHub](https://img.shields.io/badge/EikkoMass-12100E.svg?style=flat-square&logo=github&logoColor=white)](https://hub.ericmassaneiro.dev/)
-  </div>
   
 ### **Academic**
 - Graduating on [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
