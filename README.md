@@ -26,6 +26,7 @@ I´m an  fullstack developer, aspiring cybersecurity analyst and student. I´m i
     <ul>
       <li> React </li>
       <li> Node.js </li>
+      <li> C# </li>
       <li> C </li>
       <li> Cyber Security</li>
       <li> Ethical Hacking </li>
