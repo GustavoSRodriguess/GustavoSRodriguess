@@ -5,12 +5,12 @@
   
 ### **Academic**
 - Graduating in [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
-- <br/>
+ <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,cs,c,nodejs,mysql,unity,latex)](https://skillicons.dev) 
 
 ### **Studies**
 - I have a deep passion for learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
-- </br>
+ </br>
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,tailwind,docker,powershell,py,java,git,github,dotnet,linux)](https://skillicons.dev)
 
 ### **Deep Diving**
