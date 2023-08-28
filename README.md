@@ -1,5 +1,5 @@
 ## Hi there I´m [Gustavo](https://github.com/GustavoSRodriguess) 🤖
-- I´m a fullstack developer, aspiring cybersecurity analyst and student. I´m intrested in development, moderating networks and pentesing. I work in a lot of random projects, so you will find a lot of things that might intrest you in here
+- I´m a fullstack developer, aspiring cybersecurity analyst and student. I´m interested in development, moderating networks and pentesting. I work in a lot of random projects, so you will find a lot of things that might interest you in here.
 - Looking for an Internship or a Job
 
   
@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,cs,c,nodejs,mysql,unity,latex)](https://skillicons.dev) 
 
 ### **Studies**
-- I have a deep passion about learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
+- I have a deep passion for learning new things, so here some skills I've learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,tailwind,docker,powershell,py,java,git,github,dotnet,linux)](https://skillicons.dev)
 
 ### **Deep Diving**
@@ -23,7 +23,7 @@
 </details>
 <details>
   <br />
-  <summary>🧠<b>Deepen Knoledge</b></summary>
+  <summary>🧠<b>Deepen Knowledge</b></summary>
     <ul>
       <li> React </li>
       <li> Node.js </li>
