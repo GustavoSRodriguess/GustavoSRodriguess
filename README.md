@@ -9,7 +9,7 @@
 
 ### **Studies**
 - I have a deep passion for learning new things, so here some skills I learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,tailwind,docker,py,java,git,dotnet,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,firebase,styledcomponents,docker,py,java,git,dotnet,linux)](https://skillicons.dev)
 
 ### **Deep Diving**
 <details>
