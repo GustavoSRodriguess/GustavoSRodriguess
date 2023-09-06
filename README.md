@@ -5,7 +5,7 @@
   
 ### **Academic**
 - Graduating in [Software Engeneering - Católica de Santa Catarina](https://www.catolicasc.org.br)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,cs,c,nodejs,mysql,unity)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,cs,c,nodejs,mysql,unity)](https://skillicons.dev) 
 
 ### **Studies**
 - I have a deep passion for learning new things, so here some skills I've learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
