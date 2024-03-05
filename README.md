@@ -11,6 +11,10 @@
 - I have a deep passion for learning new things, so here some skills I've learned in [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com)
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,styledcomponents,docker,py,java,git,dotnet,linux)](https://skillicons.dev)
 
+### **Work**
+- Working as a web development intern in [SoftExpert](https://www.softexpert.com/)
+[![My Skills](https://skillicons.dev/icons?i=react,docker,php,gitlab,linux)](https://skillicons.dev)
+
 ### **Deep Diving**
 <details>
   <br />
