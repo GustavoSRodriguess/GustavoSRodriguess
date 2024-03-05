@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,firebase,styledcomponents,docker,py,java,git,dotnet,linux)](https://skillicons.dev)
 
 ### **Work**
-- Working as a web development intern in [SoftExpert](https://www.softexpert.com/)
+- Working as a web development intern in [SoftExpert](https://www.softexpert.com/)<br/>
 [![My Skills](https://skillicons.dev/icons?i=react,docker,php,gitlab,linux)](https://skillicons.dev)
 
 ### **Deep Diving**
