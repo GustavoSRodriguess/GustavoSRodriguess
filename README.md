@@ -19,16 +19,16 @@
   <br />
   <summary>🖥️<b>Currently Learning</b></summary>
     <ul>
-      <li>Angular</li>
-      <li>Tailwind</li>
-      <li>Dapper</li>
+      <li>React</li>
+      <li>.NET</li>
+      <li>Pentest</li>
     </ul>
 </details>
 <details>
   <br />
   <summary>🧠<b>Deepen Knowledge</b></summary>
     <ul>
-      <li> React </li>
+      <li> JavaScript </li>
       <li> Node.js </li>
       <li> C# </li>
       <li> C </li>
