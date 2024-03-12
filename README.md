@@ -20,6 +20,7 @@
   <summary>🖥️<b>Currently Learning</b></summary>
     <ul>
       <li>React</li>
+      <li>PHP</li>
       <li>.NET</li>
       <li>Pentest</li>
     </ul>
