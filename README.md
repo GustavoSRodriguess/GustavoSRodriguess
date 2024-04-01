@@ -40,5 +40,8 @@
 
 ## **Curretly listening to : **
 <p align="left">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=schinnaa&unique={true|1|on|yes})
+  <a href="(https://spotify-recently-played-readme.vercel.app/api?user=schinnaa&unique={true|1|on|yes})">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=schinnaa&unique={true|1|on|yes}" />
+    
+  </a>
 </p>
