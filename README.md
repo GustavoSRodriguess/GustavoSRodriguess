@@ -38,7 +38,7 @@
     </ul>
 </details>
 
-## Curretly listening to :
+<!--## Curretly listening to :
 <p align="left">
   <a href="(https://spotify-recently-played-readme.vercel.app/api?user=schinnaa&unique={true|1|on|yes})">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=schinnaa&unique={true|1|on|yes}" />
