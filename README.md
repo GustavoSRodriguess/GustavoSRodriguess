@@ -1,5 +1,3 @@
-![Header](https://moewalls.com/wp-content/uploads/2023/07/berserk-manga-eclipse-thumb.jpg)
-
 ## Hi there I'm [Gustavo](https://github.com/GustavoSRodriguess) 🤖
 - I'm a fullstack developer, aspiring cybersecurity analyst and student. I'm intrested in development, moderating networks and pentesting. I work in a lot of random projects,  so you will find many things that might interest you here
 
