@@ -12,7 +12,7 @@
 
 ### **Work**
 - Working as a web developer in [SoftExpert](https://www.softexpert.com/)<br/>
-[![My Skills](https://skillicons.dev/icons?i=react,docker,php,gitlab,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,docker,php,java,gitlab,linux)](https://skillicons.dev)
 
 ### **Deep Diving**
 <details>
